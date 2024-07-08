@@ -10,14 +10,14 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oren.shvartzman@gmail.com)
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-&nbsp;
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- Talking about you -->
 ### About Me
 
 Nowadays, I work at Lava Network, driving the development of the Lava blockchain node using Cosmos SDK in Golang.
+
 I also founded a software research team focused on reverse engineering embedded systems, worked in open-source vulnerability research, and completed a malware detection thesis using deep learning techniques ([here](https://github.com/orenshva/Characterization-and-Detection-of-Cross-Router-Covert-Channels)).
 
 With a strong work ethic, effective people skills, and a commitment to excellence, I offer a unique blend of leadership and technical expertise in both cybersecurity and blockchain development.
@@ -35,20 +35,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
-  <code><img width="10%" src="https://cosmos.network/presskit/cosmos-brandmark-dynamic-dark.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="20%" src="https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/65a1726ec8c996263e731baa_wordmark-full.png"></code>
+
   <br />
   <code><img width="10%" src="https://static.miraheze.org/zenithwiki/0/0d/IDAIcon.png"></code>
-  <code><img width="10%" src="https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/65a1726ec8c996263e731baa_wordmark-full.png"></code>
-</p>
-
----
-
-<!-- Its main projects -->
-<p align="left">
-  <a href="https://github.com/orenshva/Characterization-and-Detection-of-Cross-Router-Covert-Channels">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orenshva&repo=Characterization-and-Detection-of-Cross-Router-Covert-Channels" />
+  <code><img width="10%" src="https://cosmos.network/presskit/cosmos-brandmark-dynamic-dark.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"></code>
 </p>
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
