@@ -13,6 +13,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **About Me**
+
 Nowadays, I work at Lava Network, driving the development of the Lava blockchain node using Cosmos SDK in Golang.
 I also founded a software research team focused on reverse engineering embedded systems, worked in open-source vulnerability research, and completed a malware detection thesis using deep learning techniques ([here](https://github.com/orenshva/Characterization-and-Detection-of-Cross-Router-Covert-Channels)).
 
@@ -35,11 +36,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
-  <code><img width="10%" src="https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/65a1726ec8c996263e731baa_wordmark-full.png"></code>
   <code><img width="10%" src="https://cosmos.network/presskit/cosmos-brandmark-dynamic-dark.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"></code>
   <br />
   <code><img width="10%" src="https://static.miraheze.org/zenithwiki/0/0d/IDAIcon.png"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"></code>
+  <code><img width="10%" src="https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/65a1726ec8c996263e731baa_wordmark-full.png"></code>
 </p>
 
 <!-- Your hits or visitors
@@ -53,9 +54,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 ---
 
 <!-- Its main projects -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/orenshva/Characterization-and-Detection-of-Cross-Router-Covert-Channels">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orenshva&repo=Characterization-and-Detection-of-Cross-Router-Covert-Channels" />
 </p>
-
-<!-- This readme was created by Murillo Comino - https://github.com/oren-lava -->
