@@ -9,6 +9,9 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oren-shvartzman)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oren.shvartzman@gmail.com)
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 &nbsp;
 
 <!-- Talking about you -->
@@ -18,9 +21,6 @@ Nowadays, I work at Lava Network, driving the development of the Lava blockchain
 I also founded a software research team focused on reverse engineering embedded systems, worked in open-source vulnerability research, and completed a malware detection thesis using deep learning techniques ([here](https://github.com/orenshva/Characterization-and-Detection-of-Cross-Router-Covert-Channels)).
 
 With a strong work ethic, effective people skills, and a commitment to excellence, I offer a unique blend of leadership and technical expertise in both cybersecurity and blockchain development.
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### Languages and Tools:
 
