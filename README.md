@@ -20,7 +20,7 @@ I also founded a software research team focused on reverse engineering embedded 
 With a strong work ethic, effective people skills, and a commitment to excellence, I offer a unique blend of leadership and technical expertise in both cybersecurity and blockchain development.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/oren-lava/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### Languages and Tools:
 
@@ -50,3 +50,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/orenshva/Characterization-and-Detection-of-Cross-Router-Covert-Channels">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orenshva&repo=Characterization-and-Detection-of-Cross-Router-Covert-Channels" />
 </p>
+
+<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
