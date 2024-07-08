@@ -22,6 +22,8 @@ I also founded a software research team focused on reverse engineering embedded 
 
 With a strong work ethic, effective people skills, and a commitment to excellence, I offer a unique blend of leadership and technical expertise in both cybersecurity and blockchain development.
 
+Reach me here: oren.shvartzman@gmail.com
+
 ### Languages and Tools:
 
 <!-- Your github readme stats
