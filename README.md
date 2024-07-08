@@ -18,7 +18,7 @@ With a strong work ethic, effective people skills, and a commitment to excellenc
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oren-lava&show_icons=true&locale=en&layout=compact" alt="oren-lava" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oren-lava&show_icons=true&locale=en" alt="oren-lava" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oren-lava&show_icons=true&locale=en&layout=compact" alt="oren-lava" /></p>
 
 <p><img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oren-lava&theme=gruvbox" alt="oren-lava" /></p>
 
