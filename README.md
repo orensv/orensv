@@ -41,7 +41,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="20%" src="https://cdn.prod.website-files.com/642c9c8327126062770bfdd0/65a1726ec8c996263e731baa_wordmark-full.png"></code>
 
   <br />
-  <code><img width="10%" src="https://static.miraheze.org/zenithwiki/0/0d/IDAIcon.png"></code>
+  <code><img width="10%" src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fill/w_238,h_292,al_c,lg_1,q_85,enc_auto/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png"></code>
   <code><img width="10%" src="https://cosmos.network/presskit/cosmos-brandmark-dynamic-dark.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"></code>
 </p>
