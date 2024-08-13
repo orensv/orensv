@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 ### About Me
 
-Nowadays, I work at Magma Devs (The initial core contributer to [Lava Network](https://www.lavanet.xyz/)), driving the development of the Lava blockchain node using Cosmos SDK in Golang.
+Nowadays, I work at Magma Devs (the initial core contributer to [Lava Network](https://www.lavanet.xyz/)), driving the development of the Lava blockchain node using Cosmos SDK in Golang.
 
 I also founded a software research team focused on reverse engineering embedded systems, worked in open-source vulnerability research, and completed a malware detection thesis using deep learning techniques that was published in Elsevier's "Computers & Security" journal ([GitHub repo](https://github.com/orenshva/Characterization-and-Detection-of-Cross-Router-Covert-Channels), [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000354?via%3Dihub)). 
 
