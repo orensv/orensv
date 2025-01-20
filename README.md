@@ -22,6 +22,10 @@ I also founded a software research team focused on reverse engineering embedded 
 
 With a strong work ethic, effective people skills, and a commitment to excellence, I offer a unique blend of leadership and technical expertise in both cybersecurity and blockchain development.
 
+Also, I'm a proud owner of the [following comment](https://github.com/lavanet/lava/pull/1784#pullrequestreview-2530863852):
+
+![This code is a piece of art](https://github.com/oren-lava/oren-lava/blob/main/nice_comment.png)
+
 Reach me here: oren.shvartzman@gmail.com
 
 ### Languages and Tools:
