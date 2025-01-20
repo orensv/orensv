@@ -24,7 +24,7 @@ With a strong work ethic, effective people skills, and a commitment to excellenc
 
 Also, I'm a proud owner of the [following comment](https://github.com/lavanet/lava/pull/1784#pullrequestreview-2530863852):
 
-![This code is a piece of art](https://github.com/oren-lava/oren-lava/blob/main/nice_comment.png)
+![This code is a piece of art](https://github.com/oren-lava/oren-lava/blob/main/nice_comment_1.png)
 
 Reach me here: oren.shvartzman@gmail.com
 
