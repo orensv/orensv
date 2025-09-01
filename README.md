@@ -1,8 +1,8 @@
 ![Header](https://github.com/orensv/oren-lava/blob/main//header.png)
 <section>  
-<br>
-<br>
-
+  
+---
+  
 ### About me ☕
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oren-shvartzman)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oren.shvartzman@gmail.com)
